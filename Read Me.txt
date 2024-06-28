@@ -1,0 +1,6 @@
+Para la compilación del código, basta con abrir el código e ingresar como parámetros desde la
+terminal la cantidad de renglones y cantidad de columnas para las células, una medida recomendada es (15,100).
+Además de esto, el programa correrá automáticamente, mientras el usuario presiona teclas cualesquiera para comenzar el juego
+y para terminarlo.
+
+El juego continuara infinitamente hasta que el usuario presione alguna tecla.
